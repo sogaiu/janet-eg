@@ -15,7 +15,7 @@ In progress, but usable.
 
 * Obtain an appropriate `export.json` by either:
 
-** Use the included copy for a test
+** Using the included copy for a test
 
 ** Fetching https://janetdocs.com/export.json[one] from JanetDocs
 
@@ -23,7 +23,7 @@ In progress, but usable.
 
 ** Copy it to `$HOME` -or-
 
-** Put it somewhere and set the environment variable `JANET_EG_DB_FILE_PATH` to the full path it
+** Put it somewhere and set the environment variable `JANET_EG_DB_FILE_PATH` to the full path to it
 
 == Usage
 
